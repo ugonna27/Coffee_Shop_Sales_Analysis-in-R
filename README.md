@@ -28,7 +28,7 @@ Dataset
 
 The dataset contains transactional sales records collected from multiple coffee shop locations.
 
--Key Fields
+Key Fields:
 -Transaction Date
 -Transaction Time
 -Store Location
