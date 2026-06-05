@@ -4,10 +4,10 @@ This project analyzes transactional sales data from a multi-location coffee shop
 
 The analysis follows a complete data analytics workflow including:
 
-Data collection and preparation
-Data cleaning and transformation
-Exploratory Data Analysis (EDA)
-Product performance analysis
-Store performance analysis
-Time-based sales analysis
-Business recommendations
+1. Data collection and preparation
+2. Data cleaning and transformation
+3. Exploratory Data Analysis (EDA)
+4. Product performance analysis
+5. Store performance analysis
+6. Time-based sales analysis
+7. Business recommendations
