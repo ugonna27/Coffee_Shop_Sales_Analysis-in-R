@@ -82,7 +82,7 @@ ANALYSIS PERFORMED
 
 KEY INSIGHTS
 
-# Store Insigts
+# Store Insights
 Hell's kitchen brought in the most sales followed by Astoria and then Lower Manhattan
 
 # Product Insights
@@ -107,6 +107,7 @@ Drinking Chocolate
 
 # Revenue concentration risk
 A large percentage of revenue comes from a small number of products. The business may be vulnerable if demand for those products declines.
+
 # Store-specific product preferences
 Customer preferences vary by location. Product assortment should be localized rather than standardized across all stores.
 
