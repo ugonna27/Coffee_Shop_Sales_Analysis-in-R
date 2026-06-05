@@ -11,3 +11,32 @@ The analysis follows a complete data analytics workflow including:
 5. Store performance analysis
 6. Time-based sales analysis
 7. Business recommendations
+
+Business Problem
+
+Coffee shop management wants to better understand customer purchasing behavior across multiple locations.
+
+Key questions addressed include:
+
+A. Which products generate the highest revenue?
+B. Which locations perform best?
+C. What days and times generate the most sales?
+D. Are there seasonal sales patterns?
+E. How can the business improve profitability and customer retention?
+
+Dataset
+
+The dataset contains transactional sales records collected from multiple coffee shop locations.
+
+-Key Fields
+-Transaction Date
+-Transaction Time
+-Store Location
+-Product Category
+-Product Name
+-Quantity Sold
+-Unit Price
+-Net Sales
+-Discounts
+
+The dataset was cleaned and transformed using R before analysis.
