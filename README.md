@@ -29,14 +29,14 @@ Dataset
 The dataset contains transactional sales records collected from multiple coffee shop locations.
 
 Key Fields:
--Transaction Date
--Transaction Time
--Store Location
--Product Category
--Product Name
--Quantity Sold
--Unit Price
--Net Sales
--Discounts
+Transaction Date,
+Transaction Time,
+Store Location,
+Product Category,
+Product Name,
+Quantity Sold,
+Unit Price,
+Net Sales,
+Discounts
 
 The dataset was cleaned and transformed using R before analysis.
