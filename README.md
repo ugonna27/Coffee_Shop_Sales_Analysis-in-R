@@ -81,9 +81,10 @@ ANALYSIS PERFORMED
 -High-value product identification
 
 KEY INSIGHTS
-Store Insigts
--Hell's Kitchen brought in the most overall sales followed by Astoria and Lower Manhattan
--
+
+# Store Insigts
+Hell's kitchen brought in the most sales followed by Astoria and then Lower Manhattan
+
 # Product Insights
 -the Gourmet Brewed coffee in the Coffee category sells the most cups followed by Barista Espresso, the least being "Premium
 Brewed Coffee"
